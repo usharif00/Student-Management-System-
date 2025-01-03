@@ -1,0 +1,11 @@
+[
+    { "id": 1, "student_name": "John Doe", "class": "10", "date": "2025-01-10", "status": "Present" },
+    { "id": 2, "student_name": "Jane Smith", "class": "10", "date": "2025-01-10", "status": "Absent" },
+    { "id": 3, "student_name": "Alice Johnson", "class": "9", "date": "2025-01-11", "status": "Present" },
+    { "id": 4, "student_name": "Bob Brown", "class": "9", "date": "2025-01-11", "status": "Present" },
+    { "id": 5, "student_name": "Charlie Lee", "class": "10", "date": "2025-01-12", "status": "Absent" },
+    { "id": 6, "student_name": "David White", "class": "10", "date": "2025-01-12", "status": "Present" },
+    { "id": 7, "student_name": "Emma Stone", "class": "9", "date": "2025-01-13", "status": "Present" },
+    { "id": 8, "student_name": "George Harris", "class": "9", "date": "2025-01-13", "status": "Absent" }
+  ]
+  

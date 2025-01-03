@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "day": "Monday",
+      "subject": "Mathematics",
+      "teacher": "John Doe",
+      "time": "9:00 AM - 10:00 AM"
+    },
+    {
+      "id": 2,
+      "day": "Tuesday",
+      "subject": "Science",
+      "teacher": "Jane Smith",
+      "time": "10:00 AM - 11:00 AM"
+    },
+    {
+      "id": 3,
+      "day": "Wednesday",
+      "subject": "History",
+      "teacher": "Emma Johnson",
+      "time": "11:00 AM - 12:00 PM"
+    },
+    {
+      "id": 4,
+      "day": "Thursday",
+      "subject": "English",
+      "teacher": "Michael Brown",
+      "time": "9:00 AM - 10:00 AM"
+    },
+    {
+      "id": 5,
+      "day": "Friday",
+      "subject": "Geography",
+      "teacher": "Laura Davis",
+      "time": "10:00 AM - 11:00 AM"
+    },
+    {
+      "id": 6,
+      "day": "Monday",
+      "subject": "Physics",
+      "teacher": "Mark White",
+      "time": "11:00 AM - 12:00 PM"
+    },
+    {
+      "id": 7,
+      "day": "Tuesday",
+      "subject": "Chemistry",
+      "teacher": "Sophia Wilson",
+      "time": "2:00 PM - 3:00 PM"
+    },
+    {
+      "id": 8,
+      "day": "Wednesday",
+      "subject": "Biology",
+      "teacher": "James Taylor",
+      "time": "1:00 PM - 2:00 PM"
+    },
+    {
+      "id": 9,
+      "day": "Thursday",
+      "subject": "Art",
+      "teacher": "Olivia Harris",
+      "time": "9:00 AM - 10:00 AM"
+    },
+    {
+      "id": 10,
+      "day": "Friday",
+      "subject": "Music",
+      "teacher": "David Lee",
+      "time": "11:00 AM - 12:00 PM"
+    }
+  ]
+  

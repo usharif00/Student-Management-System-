@@ -1,0 +1,65 @@
+{
+    "classes": [
+      {
+        "id": 1,
+        "className": "Grade 1",
+        "teacher": "John Doe",
+        "students": 30
+      },
+      {
+        "id": 2,
+        "className": "Grade 2",
+        "teacher": "Jane Smith",
+        "students": 25
+      },
+      {
+        "id": 3,
+        "className": "Grade 3",
+        "teacher": "Emma Johnson",
+        "students": 28
+      },
+      {
+        "id": 4,
+        "className": "Grade 4",
+        "teacher": "Michael Brown",
+        "students": 32
+      },
+      {
+        "id": 5,
+        "className": "Grade 5",
+        "teacher": "Sarah White",
+        "students": 35
+      },
+      {
+        "id": 6,
+        "className": "Grade 6",
+        "teacher": "David Green",
+        "students": 40
+      },
+      {
+        "id": 7,
+        "className": "Grade 7",
+        "teacher": "Lisa Black",
+        "students": 38
+      },
+      {
+        "id": 8,
+        "className": "Grade 8",
+        "teacher": "James Blue",
+        "students": 45
+      },
+      {
+        "id": 9,
+        "className": "Grade 9",
+        "teacher": "Patricia Grey",
+        "students": 36
+      },
+      {
+        "id": 10,
+        "className": "Grade 10",
+        "teacher": "Robert Red",
+        "students": 50
+      }
+    ]
+  }
+  

@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "title": "Class 10 Math Performance",
+      "type": "Performance",
+      "description": "Detailed analysis of students' performance in recent Math exams.",
+      "date": "2024-12-20",
+      "summary": {
+        "total_students": 30,
+        "average_score": "82%",
+        "top_performer": "Jane Smith",
+        "lowest_score": "60%"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Class 9 Science Attendance",
+      "type": "Attendance",
+      "description": "Attendance report for Class 9 during the current semester.",
+      "date": "2024-12-18",
+      "summary": {
+        "total_days": 100,
+        "average_attendance": "92%",
+        "highest_attendance": "98%",
+        "lowest_attendance": "75%"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Class 8 Quarterly Evaluation",
+      "type": "Evaluation",
+      "description": "Comprehensive evaluation for Class 8 students based on their performance and participation.",
+      "date": "2024-12-15",
+      "summary": {
+        "total_students": 25,
+        "average_participation": "85%",
+        "top_participant": "John Doe",
+        "lowest_participation": "70%"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Class 12 Project Submissions",
+      "type": "Projects",
+      "description": "Submission status of final year projects for Class 12.",
+      "date": "2024-12-10",
+      "summary": {
+        "total_projects": 20,
+        "submitted_on_time": 18,
+        "pending": 2,
+        "top_project": "AI-Powered Chatbot by Alice Johnson"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Overall Student Performance",
+      "type": "Performance",
+      "description": "Overall analysis of student performance across all classes.",
+      "date": "2024-12-05",
+      "summary": {
+        "total_classes": 10,
+        "average_class_score": "78%",
+        "highest_class_performance": "Class 11",
+        "lowest_class_performance": "Class 7"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Monthly Attendance Overview",
+      "type": "Attendance",
+      "description": "Attendance statistics for all classes for the month of November.",
+      "date": "2024-11-30",
+      "summary": {
+        "average_attendance": "89%",
+        "most_present_class": "Class 9",
+        "least_present_class": "Class 12"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Class 11 Chemistry Exam Analysis",
+      "type": "Performance",
+      "description": "Performance review for the Chemistry midterm exam in Class 11.",
+      "date": "2024-11-25",
+      "summary": {
+        "average_score": "76%",
+        "highest_score": "95%",
+        "lowest_score": "55%",
+        "top_student": "Ethan Hunt"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Weekly Alerts Report",
+      "type": "Alerts",
+      "description": "Summary of alerts and important notices issued during the week.",
+      "date": "2024-11-20",
+      "summary": {
+        "total_alerts": 12,
+        "academic_alerts": 8,
+        "disciplinary_alerts": 3,
+        "general_alerts": 1
+      }
+    },
+    {
+      "id": 9,
+      "title": "Parent Feedback Summary",
+      "type": "Feedback",
+      "description": "Analysis of feedback received from parents for the current term.",
+      "date": "2024-11-15",
+      "summary": {
+        "total_feedbacks": 50,
+        "positive_feedback": "85%",
+        "neutral_feedback": "10%",
+        "negative_feedback": "5%"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Class 7 Reading Challenge",
+      "type": "Activities",
+      "description": "Report on the Reading Challenge participation for Class 7.",
+      "date": "2024-11-10",
+      "summary": {
+        "total_participants": 20,
+        "completed_challenge": 18,
+        "top_reader": "Lucy Brown",
+        "pending_tasks": 2
+      }
+    }
+  ]
+  

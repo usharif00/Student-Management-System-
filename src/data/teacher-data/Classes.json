@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "className": "Mathematics",
+      "teacher": "John Doe",
+      "students": 30,
+      "schedule": "Monday & Wednesday, 10:00 AM - 11:30 AM"
+    },
+    {
+      "id": 2,
+      "className": "Science",
+      "teacher": "Jane Smith",
+      "students": 25,
+      "schedule": "Tuesday & Thursday, 1:00 PM - 2:30 PM"
+    },
+    {
+      "id": 3,
+      "className": "English",
+      "teacher": "Robert Brown",
+      "students": 20,
+      "schedule": "Friday, 9:00 AM - 10:30 AM"
+    }
+  ]
+  
