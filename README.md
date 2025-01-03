@@ -1,6 +1,49 @@
-# Getting Started with Create React App
+# Student Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+
+This is a **Student Management System** developed using React.js and Tailwind CSS. The system includes functionalities for Admin, Teacher, and Student dashboards, as well as authentication via a login and signup page.
+
+---
+
+## Pages and Routes
+
+### **Home - Admin Dashboard**
+
+- **URL**: `/admin/home`
+- **Description**: The Admin dashboard that gives an overview of the entire system with cards for various functionalities such as Users, Class List, Exams, etc. All pages are fully functional here.
+- **Image**: ![Admin Dashboard](Images/Admin%20Dashboard.png)
+
+## Teacher Dashboard Pages
+
+### **Teacher Home**
+
+- **URL**: `/teacher/home`
+- **Description**: The teacher dashboard with access to classes, assignments, quizzes, and more. All pages are fully functional here.
+- **Image**: ![Teacher Home](Images/Teacher%20Dashboard.png)
+
+## Student Dashboard Pages
+
+### **Student Home**
+
+- **URL**: `/student/home`
+- **Description**: The student dashboard with access to enrolled courses, assignments, grades, and more. All pages are fully functional here.
+- **Image**: ![Student Home](Images/Student%20Dashboard.png)
+
+## How to Run the Application Locally
+
+**Clone the Repository**:
+
+```bash
+git clone https://github.com/yourusername/student-management-system.git
+cd student-management-system
+```
+
+npm install
+npm start
+
+Access the Application:
+Open your browser and go to http://localhost:3000 to view the application.
 
 ## Available Scripts
 
